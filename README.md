@@ -1,3 +1,4 @@
-# mysql
+# Projeto Loja Virtual
 
-Loja virtual
+phpmyadmin
+

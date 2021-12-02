@@ -3,7 +3,7 @@
 Criar uma loja virtual utlizando os recursos do banco de dados SQL.
 phpmyadmin - concluido
 
-* Nessa aula aprendi muito sobre os conceitos e como maninipular e realizar querys no DB.
+* Nessa aula aprendi muito sobre os conceitos e como maninipular/realizar querys no DB.
 
 Desafio realizado com sucesso !
 
